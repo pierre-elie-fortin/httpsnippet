@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.2",
-    "event-stream": "4.0.1",
+    "event-stream": "3.3.4",
     "form-data": "4.0.0",
     "har-schema": "^2.0.0",
     "stringify-object": "3.3.0",
